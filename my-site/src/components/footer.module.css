@@ -1,0 +1,15 @@
+.myfotter {
+    background-color: blueviolet;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    color: cornsilk;
+    padding: 0px 20px;
+    text-align: center;
+}
+
+.play{
+    background: black;
+    color: blue;
+}

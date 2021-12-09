@@ -1,0 +1,23 @@
+.Navbar{
+    background-color: rgb(151, 104, 196);
+    
+    padding: 20px 0;
+    text-align: center;
+    
+}
+
+
+.Navbar >a{
+    /* margin: 0 10px; */
+    color: burlywood;
+    text-decoration: none;
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.Navbar >a:hover{
+    
+    color: whitesmoke;
+    
+}
